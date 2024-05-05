@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DreadzHub2/DreadzHub-2.0/main/Dreadzhub%202.0%20Loader"))()
